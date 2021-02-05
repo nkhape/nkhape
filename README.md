@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**Sportify**](https://github.com/nkhape/sportify490) - an app that helps people to find, participate in and create sports matches.
 
-- 🌱 I’m currently learning **React and Vue**
+- 🌱 I’m currently learning **React**
 
 - 📫 Shoot me a message here: **hape.nick@gmail.com**
 

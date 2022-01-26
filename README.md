@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkhape&label=Profile%20views&color=0e75b6&style=flat" alt="nkhape" /> </p>
 
-- 🔭 I’m currently working on [**Sportify**](https://github.com/nkhape/sportify490) - an app that helps people to find, participate in and create sports matches.
+- 🔭 Check out a project I've worked on: [**Sportify**](https://github.com/nkhape/sportify490) - an app that helps people to find, participate in and create sports matches.
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning / improving my skills in **JavaScript, Ruby on Rails**
 
 - 📫 Shoot me a message here: **hape.nick@gmail.com**
 

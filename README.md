@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">a Canadian FullStack Dev living in Berlin 🇨🇦 🇩🇪</h3>
+<h3 align="center">a FullStack Dev living in Berlin 🇩🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkhape&label=Profile%20views&color=0e75b6&style=flat" alt="nkhape" /> </p>
 

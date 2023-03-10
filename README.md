@@ -11,5 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicholashape" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicholashape" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nicholashape" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="my linkedin profile" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/nkhape" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="my codewars profile" height="30" width="30" /></a>
 </p>
